@@ -3,7 +3,7 @@ starcatchers-game
 
 ### What is it？
 
-This is a small game for Starcatchers! Enjoy it!
+This is a small game for Starcatchers! Enjoy it!(Maybe a little difficult)
 
 
 ### try it:
