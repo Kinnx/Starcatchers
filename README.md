@@ -9,7 +9,7 @@ This is a small game for Starcatchers! Enjoy it!
 ### try it:
 
 
-http://maknoonn.github.io/Starcatchers-game/
+http://maknoonn.github.io/Starcatchers/
 
 
 
